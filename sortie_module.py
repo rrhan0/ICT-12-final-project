@@ -1,3 +1,7 @@
+# Richard Han and Adam Abdi
+# Chernobyl Adverntures
+# January 16, 2019
+
 import pygame
 from sprite_strip_anim import SpriteStripAnim
 import random
