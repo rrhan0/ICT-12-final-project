@@ -1,4 +1,4 @@
-# Richard Han
+# Richard Han and Adam Abdi
 # Shop module
 # 20/12/2018
 
